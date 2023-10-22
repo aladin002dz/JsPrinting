@@ -1,0 +1,21 @@
+{
+    "name": "My PWA",
+    "short_name": "My PWA",
+    "description": "A simple PWA example",
+    "icons": [
+        {
+            "src": "./images/printer_72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/icons/printer_256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "../index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+}
