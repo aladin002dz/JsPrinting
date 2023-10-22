@@ -8,7 +8,7 @@ function main() {
         var nameInput = document.getElementById('name');
         var emailInput = document.getElementById('email');
 
-        var printableContent = '<h2>Form Input Values</h2>';
+        var printableContent = '<h2>Mon Formulaire</h2>';
         printableContent += '<p>Name: ' + nameInput.value + '</p>';
         printableContent += '<p>Email: ' + emailInput.value + '</p>';
 
